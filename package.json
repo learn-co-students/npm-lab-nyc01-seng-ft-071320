@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-nyc01-seng-ft-071320",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanflynndev/npm-lab-nyc01-seng-ft-071320.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanflynndev/npm-lab-nyc01-seng-ft-071320/issues"
+  },
+  "homepage": "https://github.com/ryanflynndev/npm-lab-nyc01-seng-ft-071320#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
